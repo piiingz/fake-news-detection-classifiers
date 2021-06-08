@@ -1,0 +1,12 @@
+xgboost
+numpy==1.19.2
+tensorflow
+pandas
+matplotlib
+tensorboardx
+scikit-learn
+simpletransformers
+torch>=1.6
+wandb
+tqdm
+mpi
